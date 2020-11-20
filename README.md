@@ -16,7 +16,6 @@
     <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/javascript.svg"></code>
     <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/html.svg"></code>
     <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/visualstudiocode.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/git.svg"></code>
     <br>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=udit2303&show_icons=true&hide_border=true&theme=dark&count_private=true">
