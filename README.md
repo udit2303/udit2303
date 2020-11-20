@@ -5,6 +5,8 @@
     <br>
     <i>Moderator at <a href="https://discord.gg/X7u6Dv4jse" >Snowflake Studio ❄</a></i>
     <br>
+     <i>Developer at <a href="https://discord.gg/infinitenetwork" > Infinite Network | FS & RP 2020 |</a></i>
+    <br>
     <hr>
   <h4> Current Status </h4>
     - 🔭 I’m currently working on <strong>Music Discord Bot</strong><br>
