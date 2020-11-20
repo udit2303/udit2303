@@ -12,7 +12,8 @@
     - 🔭 I’m currently working on <strong>Music Discord Bot</strong><br>
     - 🌱 I’m currently learning <strong>ReactJS</strong><br>
     - 📫 Contact me <strong>on Discord at Udit#2303</strong><br>
-    - ⚡ Fun fact is <strong>I do a lot of stupid things....</strong>
+    - ⚡ Fun fact is <strong>I do a lot of stupid things....</strong><br>
+    - 🌐 Check out my website at <strong>https://udit.gq</strong>
     <hr>
     <h4> <i> Programming Languages and Tools </i> </h4>
     <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/javascript.svg"></code>
