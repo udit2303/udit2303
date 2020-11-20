@@ -22,7 +22,7 @@
     <code><a href = 'mailto:udit@udit.gq'><img width="25px" src= "https://lh3.googleusercontent.com/VS3B_qhOFTYsdyNfnlr98zg3HNjB_Gcs9bxVnaQO9MysAoBOXMHATClhRviImKKJV8RV-0s7hl8KeVQcij5Iagb1exHzt40x679l8Q=w0"></a></code>
     <br>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=udit2303&show_icons=true&hide_border=true&theme=dark&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=udit2303&show_icons=true&hide_border=true&theme=dark&count_private=true"> <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udit2303&show_icons=true&theme=dark&locale=en&layout=compact&count_private=true">
     <br>
     <h4> <i> Current Projects </i> </h4>
