@@ -1,7 +1,7 @@
 <div align="center">
     <h2> Hello there 👋, I'm Udit </h2>
     <br>
-    Hi, I'm Udit, a passionate self-taught developer from India.
+    Hi, I'm Udit, a passionate self-taught developer at the age of 15 from India.
     <br>
     <i>Moderator at <a href="https://discord.gg/X7u6Dv4jse" >Snowflake Studio ❄</a></i>
     <br>
@@ -10,7 +10,7 @@
     <hr>
   <h4> Current Status </h4>
     - 🔭 I’m currently working on <strong>Music Discord Bot</strong><br>
-    - 🌱 I’m currently learning <strong>ReactJS</strong><br>
+    - 🌱 I’m currently learning <strong>C++</strong><br>
     - 📫 Contact me <strong>on Discord at Udit#2303</strong><br>
     - ⚡ Fun fact is <strong>I do a lot of stupid things....</strong><br>
     - 🌐 Check out my website at <strong>https://udit.gq</strong>
